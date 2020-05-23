@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pbreen0740/Devops/_apis/build/status/paulbreen-symphonytalent.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/pbreen0740/Devops/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
