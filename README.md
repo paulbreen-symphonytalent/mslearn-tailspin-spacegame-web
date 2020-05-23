@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/pbreen0740/Devops/_apis/build/status/paulbreen-symphonytalent.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/pbreen0740/Devops/_build/latest?definitionId=1&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=paulbreen-symphonytalent_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=paulbreen-symphonytalent_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
